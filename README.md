@@ -9,3 +9,7 @@
 - ⚡ Fun fact: Photon in a Double-slit💥
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamMahto)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me:
+
+[<img align="left" alt="Mehul | Instagram" width="22px" src="https://www.instagram.com/duffer_dude_007/" />][instagram]
