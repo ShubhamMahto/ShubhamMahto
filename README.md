@@ -12,4 +12,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mehul | Instagram" width="22px" src="https://www.instagram.com/duffer_dude_007/" />][instagram]
+[<img align="left" alt="Shubham | Instagram" width="22px" src=""https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
