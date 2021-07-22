@@ -1,5 +1,5 @@
 Hi there, I'm Shubhbham Mahto 👋
-                                     Currnetly I am in Third year of Engineering, trying to gain more knowledge and Learning new skills 
+                                     I am Third year Engineering Student, trying to gain more knowledge and Learning new skills 
                                      I am interested in Python and MERN Stack develoment
                                      I have started Learning React and mongoDB
 
