@@ -1,12 +1,13 @@
-### Hi there 👋
+Hi there, I'm Shubhbham Mahto 👋
+                                     Currnetly I'm in Third year of my Engineering, trying to gain more knowledge and Learning new skills 
+                                     I am interested in Python and MERN Stack develoment
+                                     I have started Learning React and mongoDB
 
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on any platform based projects
-- 🤔 I’m looking for help with learning more in Web development, MERN
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: Photon in a Double-slit💥
+- 🔭  I’m currently working on MERN Stack
+- 🌱  I’m currently learning MERN Stack
+- 👯  I’m looking to collaborate on any platform based projects
+- ⚡  Fun fact: Photon in a Double-slit💥
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammahto&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammahto" /> </p>
 
