@@ -14,7 +14,7 @@ Hi there, I'm Shubhbham Mahto 👋
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-mahto-3b1302218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham mahto" height="30" width="40" /></a>
-<a href="mailto:shubhammahto93117@gmail.com"><img align="left" width="25px" src="icons/gmail.png" /></a>
+<a href="mailto:shubhammahto93117@gmail.com"><img align="left" width="25px" src="https://user-images.githubusercontent.com/87574346/126891107-51d1facd-4e66-48d6-bc09-f6ec5f30d964.png" alt="shubham mahto" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
