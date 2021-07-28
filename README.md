@@ -4,8 +4,7 @@ Hi there, I'm Shubhbham Mahto 👋
                                       I have started Learning React and mongoDB
 
 
-- 🔭  I’m currently working on MERN Stack
-- 🌱  I’m currently learning MERN Stack
+- 🔭  I’m currently working on Node.js
 - 👯  I’m looking to collaborate on any platform based projects
 - ⚡  Fun fact: Photon in a Double-slit💥
 
